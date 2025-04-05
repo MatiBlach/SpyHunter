@@ -4,6 +4,8 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.sln
+*.vcxproj
 
 # Compilation
 *.obj
