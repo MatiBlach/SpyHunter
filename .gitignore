@@ -1,0 +1,46 @@
+# IDE
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compilation
+*.obj
+*.exe
+*.ilk
+*.log
+*.pch
+*.pdb
+*.ipch
+*.tlog
+*.tmp
+*.log
+*.lastbuildstate
+*.idb
+*.sbr
+*.bak
+*.db
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# SDL2
+SDL2-2.0.10/
+
+# Generated files
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cache
+*.VC.db
+
+
+# GIMP
+*.xcf
