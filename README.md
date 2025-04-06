@@ -1,7 +1,6 @@
 # 🕵️ SpyHunter
 
-> A simple single-player arcade game inspired by the classic **Spy Hunter**, written in **C++** using the **SDL2 (Simple DirectMedia Layer)** library.  
-> Developed as a programming fundamentals project.
+> A simple single-player arcade game inspired by the classic **Spy Hunter**, written in **C++** using the **SDL2 (Simple DirectMedia Layer)** library. 
 
 ---
 
