@@ -14,7 +14,7 @@
 
 ## 🚗 Features
 
-- 🏁 **Arcade-style driving mechanics**: acceleration, braking, lives and collision detection
+- 🏁 **Arcade-style driving mechanics**: acceleration, braking and collision detection
 - 💥 **Score system**: earn points while dodging or destroying enemies
 - 🧠 **Basic AI**: enemy vehicles attempt to block and push the player off the road
 - 🎨 **Custom graphics**: background was made in **GIMP**
